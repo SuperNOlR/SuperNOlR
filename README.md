@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Anuwat Khongchuai (AKA. un4ckn0wl3z)</h1>
+<h1 align="center">Hi 👋, I'm Fahsya (AKA. SuperNOIR)</h1>
 <h3 align="center">Reverse Engineer / Offensive Security / Software Developer / R&D</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=un4ckn0wl3z&label=Profile%20views&color=0e75b6&style=flat" alt="un4ckn0wl3z" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=un4ckn0wl3z&label=Profile%20views&color=0e75b6&style=flat" alt="SuperNOIR" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=un4ckn0wl3z" alt="un4ckn0wl3z" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuperNOIR" alt="SuperNOIR" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/haxtivitiez" target="blank"><img src="https://img.shields.io/twitter/follow/haxtivitiez?logo=twitter&style=for-the-badge" alt="haxtivitiez" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SuperNOIR" target="blank"><img src="https://img.shields.io/twitter/follow/haxtivitiez?logo=twitter&style=for-the-badge" alt="haxtivitiez" /></a> </p>
 
 - 🔭 I’m currently working on [unknownclub](https://github.com/unknownclub)
 
