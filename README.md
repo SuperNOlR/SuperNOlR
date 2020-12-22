@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuperNOIR" alt="SuperNOIR" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/SuperNOIR" target="blank"><img src="https://img.shields.io/twitter/follow/un4ckn0wl3z?logo=twitter&style=for-the-badge" alt="SuperNOIR" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SuperNOIR" target="blank"><img src="https://img.shields.io/twitter/follow/SuperNOIR?logo=twitter&style=for-the-badge" alt="SuperNOIR" /></a> </p>
 
 - 🔭 I’m currently working on [unknownclub](https://github.com/unknownclub)
 
