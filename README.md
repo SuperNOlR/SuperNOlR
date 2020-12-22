@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=un4ckn0wl3z&label=Profile%20views&color=0e75b6&style=flat" alt="SuperNOIR" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuperNOIR" alt="SuperNOIR" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuperNOlR" alt="SuperNOIR" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/SuperNOIR" target="blank"><img src="https://img.shields.io/twitter/follow/SuperNOlR?logo=twitter&style=for-the-badge" alt="SuperNOIR" /></a> </p>
 
